@@ -1,4 +1,4 @@
 
-# PROJECT WHEN?
+# m
+just decided to move this project on gitlab and just don't reveal the source or anything, makes me feel weird i don't know why lmfao
 
-I've made the desicion of not making a bot because I don't have enough time to code it, that's because I come late to my house which is around at 8 P.M (GMT) and I also need to go to school at around 8 (in the morning) everyday.
